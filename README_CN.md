@@ -28,6 +28,14 @@ FIG 是一款轻量跨平台的命令行工具，用于整理相机照片。它�
 ## 安装
 
 ```bash
+# 方式 1: 通过 Git 克隆仓库
+git clone https://github.com/JoyNop/fig-photo.git
+cd fig-photo
+
+# 方式 2: 通过 Release 直接下载
+# 打开: https://github.com/JoyNop/fig-photo/releases
+# 下载压缩包后解压并进入目录
+
 # 确保脚本可执行
 chmod +x fig.sh
 

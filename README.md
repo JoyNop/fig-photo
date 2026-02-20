@@ -30,6 +30,14 @@ FIG is a lightweight, cross-platform CLI tool for sorting your camera photos. It
 ## Installation
 
 ```bash
+# Option 1: Clone from Git
+git clone https://github.com/JoyNop/fig-photo.git
+cd fig-photo
+
+# Option 2: Download from Release directly
+# Open: https://github.com/JoyNop/fig-photo/releases
+# Download the archive, then extract it and enter the project folder
+
 # Make sure the script is executable
 chmod +x fig.sh
 
