@@ -5,7 +5,6 @@
 ---
 
 **作者**: HE-AN
-**网站**: [WWW.HEAN.LIFE](https://www.hean.life)
 **GitHub**: [https://github.com/JoyNop/fig-photo](https://github.com/JoyNop/fig-photo)
 
 FIG 是一款轻量跨平台的命令行工具，用于整理相机照片。它可以自动区分 RAW 和 JPG 文件，并根据厂商组织 RAW 文件，支持恢复、预览模式，并生成详细日志。

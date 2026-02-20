@@ -7,7 +7,6 @@
 ## FIG Photo CLI
 
 **Author**: HE-AN
-**Website**: [WWW.HEAN.LIFE](https://www.hean.life)
 **GitHub**: [https://github.com/JoyNop/fig-photo](https://github.com/JoyNop/fig-photo)
 
 FIG is a lightweight, cross-platform CLI tool for sorting your camera photos. It automatically separates RAW and JPG files, organizes RAW by manufacturer, supports restore, dry-run preview, and provides detailed logging.
