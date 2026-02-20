@@ -104,4 +104,5 @@ This allows easy tracking and restoring files.
 ## Requirements
 
 - Bash (macOS, Linux, Windows via Git Bash / WSL)
+- Important: Windows PowerShell cannot run this script directly. Please use Git Bash or WSL.
 - `exiftool` installed for automatic manufacturer detection (optional but recommended)

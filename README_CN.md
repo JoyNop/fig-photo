@@ -102,4 +102,5 @@ sudo mv fig.sh /usr/local/bin/fig
 ## 系统要求
 
 - Bash (macOS, Linux, Windows Git Bash / WSL)
+- 特别提示：Windows PowerShell 不能直接运行该脚本，请使用 Git Bash 或 WSL。
 - 可选安装 `exiftool` 用于自动识别厂商
